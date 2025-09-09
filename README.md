@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pawan20032003
+- 👋 Hi, I’m @sivannagaripavankumar
 - 👀 I’m interested in ... Manual Testing, Playwright automation Testing and Front end development
 - 🌱 I’m currently learning ... on Playwright Automation Testing
 <!---
